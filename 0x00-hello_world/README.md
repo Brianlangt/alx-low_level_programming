@@ -4,3 +4,4 @@
 3 - Compile C file and execute in new file
 4 - C program that prints using function "puts"
 5 - C program that prints using function "printf"
+7 - Assemble code for a program according to intel syntax
