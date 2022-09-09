@@ -1,8 +1,8 @@
 #!/bin/bash
 
-git add -u
+git add .
 
-git commit -m "C Programming"
+git commit -m 'C Hello World'
 
 git push
 
