@@ -2,3 +2,5 @@
 1 - Compile code but dont link
 2 - Generate asssembly file for a C file
 3 - Compile C file and execute in new file
+4 - C program that prints using function "puts"
+5 - C program that prints using function "printf"
