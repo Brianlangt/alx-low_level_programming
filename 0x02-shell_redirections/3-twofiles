@@ -1,2 +1,0 @@
-#!/bin/bash
-find /etc -type f \( -iname '*passwd' -or -iname '*hosts' \) -exec cat {} +

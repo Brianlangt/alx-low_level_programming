@@ -1,2 +1,0 @@
-#!/bin/bash
-find -name "betty" exec mv betty -t ./tmp/my_first_directory

@@ -1,2 +1,0 @@
-#!/bin/bash
-find /etc/passwd -type f -name '*passwd' -exec head -n 10 {} +

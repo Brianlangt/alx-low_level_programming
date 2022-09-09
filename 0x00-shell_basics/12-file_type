@@ -1,2 +1,0 @@
-#!/bin/bash
-find ./tmp -type f -exec file -s {} +

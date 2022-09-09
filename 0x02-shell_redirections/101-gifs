@@ -1,2 +1,0 @@
-#!/bin/bash
-find . -type f -iname "*.gif" -exec ls -lSa {} + | cat | cut -d "." -f -3
