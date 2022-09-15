@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * 0-putchar - prints the word _putchar
+ * putchar - prints the word _putchar
  *
  * Return: always 0
  */
 
-void 0-putchar(void)
+void putchar(void)
 {
 	int i = "_putchar";
 
