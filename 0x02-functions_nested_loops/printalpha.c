@@ -11,7 +11,7 @@ void printalpha(void)
 {
 	int i;
 
-	for (i = 'a'; i ,= 'z'; i++)
+	for (i = 'a'; i <= 'z'; i++)
 	{
 		if (i == 'c' || i == 'k')
 			_putchar(i);
