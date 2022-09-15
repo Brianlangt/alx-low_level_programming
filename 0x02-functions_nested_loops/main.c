@@ -6,9 +6,10 @@
  * Return: always 0
  */
 
-int main(void);
-
+int main(void)
 {
 	printfirstone();
+
+	return (0);
 
 }
