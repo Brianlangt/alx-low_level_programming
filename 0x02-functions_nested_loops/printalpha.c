@@ -13,7 +13,9 @@ void printalpha(void)
 	for (i = 'a'; i <= 'z'; i++)
 	{
 		if (i == 'c' || i == 'k')
-			_putchar(i);
-		continue;
+			continue;
+		_putchar(i);
+		_putchar('\n');
 	}
+	_putchar('\n');
 }
