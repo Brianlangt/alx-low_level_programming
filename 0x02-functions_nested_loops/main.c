@@ -6,12 +6,8 @@
  * Return: always 0
  */
 
-int main(void)
-
+int main(void);
 {
-	printalpha();
-
 	printfirstone();
 
-	return (0);
 }
