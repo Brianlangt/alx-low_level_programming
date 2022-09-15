@@ -16,5 +16,4 @@ void printalpha(void)
 			_putchar(i);
 		continue;
 	}
-	return
 }
