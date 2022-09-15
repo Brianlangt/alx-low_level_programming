@@ -6,7 +6,7 @@
  * Return: always 0
  */
 
-void putchar(void)
+void printfirston(void)
 {
 	int i = "_putchar";
 

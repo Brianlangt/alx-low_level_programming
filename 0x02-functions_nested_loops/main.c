@@ -11,7 +11,7 @@ int main(void)
 {
 	printalpha();
 
-	putchar();
+	printfirstone();
 
 	return (0);
 }

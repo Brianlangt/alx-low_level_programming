@@ -3,6 +3,6 @@
 
 int _putchar(char c);
 void printalpha(void);
- void putchar(void)
+void printfirstone(void)
 
 #endif
