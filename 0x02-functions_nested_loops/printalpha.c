@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- *
  * printalpha - prints alphabet except c & k
  *
  * Return: void
