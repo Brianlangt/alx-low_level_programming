@@ -8,8 +8,8 @@
 
 void printfirstone(void)
 {
-	char c[8] = "_putchar";
+	char i = "_putchar";
 
-	_putchar(c[8]);
+	_putchar(i);
 	_putchar('\n');
 }
