@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	printfirstone();
+	printalphabet();
 
 	return (0);
 
