@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+/* main function description goes here*/
+
 /**
-*more headers goes there
-*main - program to print whether something is positive or negative
-*Return = 0
+* main - program to print whether something is positive or negative
+* Return = 0
 */
+
 int main(void)
 {
 	int n;
