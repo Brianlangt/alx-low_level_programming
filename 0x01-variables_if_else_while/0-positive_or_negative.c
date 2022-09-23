@@ -3,9 +3,11 @@
 #include <time.h>
 
 /**
-* main - program to print whether something is positive or negative
+* main - Entry point
 *
-* Return= Always 0
+* Description: program to print whether something is positive or negative
+*
+* Return: Always 0 (Success)
 */
 
 int main(void)
